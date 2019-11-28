@@ -1,0 +1,28 @@
+body{
+    background: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.fblink img{
+
+   display: block;
+   margin: auto;
+
+}
+.iglink img{
+    display: block;
+    margin: auto;
+}
+
+
+h1{
+    font-style: italic;
+    text-align: center;
+    color: antiquewhite;
+
+}
+h2{
+    font-family:Impact,'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: antiquewhite;
+}

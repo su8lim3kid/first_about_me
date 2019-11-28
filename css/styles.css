@@ -1,0 +1,45 @@
+body{
+  background: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+#nav {
+    list-style:none;
+  }
+  
+  #nav li {
+    display: inline-block;
+  }
+  
+  .center {
+    text-align: center;
+  }
+  
+  p{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    
+  }
+
+   h1{
+     text-align: center;
+  font-family: bello-pro, serif;
+  font-weight: 400;
+  color: #e0eff2;
+  text-shadow: 1px 1px 0 #ffa500, 0px 2px 0 #ffffff;
+  }
+    
+
+h2{
+  text-align: center;
+
+  
+}
+
+.pic img{
+  display: block;
+  border: 15px solid orange;
+  margin: auto;
+  padding: 10px;
+}
